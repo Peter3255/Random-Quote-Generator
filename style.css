@@ -1,0 +1,53 @@
+ header {
+  text-align: center;
+  padding-right: 50;
+}
+
+body {
+  background-color: darkgrey;
+}
+
+.rounds {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+    position: absolute;
+    top: 65px;
+    left: 300px;
+    background-color:darkgray;
+    width: 700px;
+    height: 130px;
+  }
+
+.guess-label {
+    font-size: 18px;
+    /*font-weight: 700;*/
+    margin: 0;
+    margin-bottom: 35px;
+  }
+
+  .game-container {
+    max-width: 640px;
+    margin: 0 auto;
+    text-align: center;
+    
+  }
+
+  .infomation-push {
+    /*display: flex;
+    flex-direction: column;
+    align-content: center;*/
+    bottom: 1px;
+    left: 358px;
+    position: absolute;
+    background-color: darkgray;
+    text-align: center;
+    
+  }
+
+.movePicture {
+  
+  padding-left: 350px;
+  
+}
