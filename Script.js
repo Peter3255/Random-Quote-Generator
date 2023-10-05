@@ -15,25 +15,25 @@ switch(randomNumber) {
         eightBall = `"I had no special talent. I just had a burning curiosity." - Albret Einstein`;
         break;
         case 1:
-        eightBall = "Outlook not so good";
+        eightBall = `"Be the change you want to see in the world." - M. K. Gandhi`;
         break;
         case 2:
-        eightBall = "My sources say no";
+        eightBall = `"Failure is success if we learn from it." - Malcom. S Forbes`;
         break;
         case 3:
-        eightBall = "Reply hazy try again";
+        eightBall = `"Tomorrow is the first blank page of a 365-day book. Write a good on." - Brad Paisley`;
         break;
         case 4:
-        eightBall = "Signs point to yes";
+        eightBall = `"No person has the right to rain on your dreams." - Martin Luther King Jr.`;
         break;
         case 5:
-        eightBall = "It is decidedly so";
+        eightBall = `"No act of kindness, no matter how small, is ever wasted." - Aesop`;
         break;
         case 6:
-        eightBall = "Do not count on it";
+        eightBall = `"I am an optimist. It does not seem too much use be anything else." - Winston Churchill `;
         break;
         case 7:
-        eightBall = "It is certain";
+        eightBall = `"He has a right to criticize, who has a heart to help." - Abraham Lincoln`;
         break;
 }
 
